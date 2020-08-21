@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "codegram-dbd59": {
+      "hosting": {
+        "app": [
+          "codegram-dbd59"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "codegram-dbd59"
+  }
+}
